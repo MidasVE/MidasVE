@@ -5,6 +5,9 @@ I’m @MidasVE
   
 🌱 I’m currently learning:
   - React
+    - Next.js
+  - Vue
+    - Nuxt.js
   - Svelte
   - Jekyll
   - Typescript
