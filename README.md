@@ -8,8 +8,7 @@ I’m @MidasVE
     - Next.js
   - Vue
     - Nuxt.js
-  - Svelte
-  - Jekyll
+  - Svelte(kit)
   - Typescript
   
 📫 How to reach me:
